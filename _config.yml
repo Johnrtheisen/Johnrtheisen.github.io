@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "John R. Theisen"
-  pronouns         : "He/Him" # example: "she/her"
+  pronouns         : # # example: "she/her"
   bio              : "Power Systems Engineer"
   location         : "Pullman, WA"
   employer         : "Washington State University"

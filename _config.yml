@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "John R. Theisen / Site Title"
+title                    : "John R. Theisen"
 title_separator          : "-"
 name                     : &name "John R. Theisen"
 description              : &description "Power Systems Engineer"
